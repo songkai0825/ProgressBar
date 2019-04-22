@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyProgressbar">
+
+        <attr name="progressbar_width" format="dimension"/>
+        <attr name="progressbar_height" format="dimension"/>
+        <attr name="progressbar_ProgressToFrameWidth" format="dimension"/>
+
+    </declare-styleable>
+
+</resources>
